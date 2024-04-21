@@ -3,7 +3,7 @@
 Hi my name is Ilya. My goal is to be good at every aspect of software engineering to be able to build everything. Currently I'm working on my DevOps skills to compliment my Fullstack development skills.
 
 ## :rocket: Technologies I use
-* :man_technologist: Programming Languages:
+### :man_technologist: Programming Languages:
     
     [![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
     [![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -11,7 +11,7 @@ Hi my name is Ilya. My goal is to be good at every aspect of software engineerin
     [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-* :toolbox: Tools and frameworks:
+### :toolbox: Tools and frameworks:
 
     [![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
     [![Django](https://img.shields.io/badge/django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
